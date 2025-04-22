@@ -1,6 +1,6 @@
 # Hi 👋🏼
 
-I'm Julian Schumacher, an 19 year old student at DHBW-Stuttgart, building and improving my
+I'm Julian Schumacher, a 20 year old student at DHBW-Stuttgart, building and improving my
 coding skills.
 
 
@@ -31,10 +31,10 @@ I've also got some experience in user interface and user experience design, both
 I'm the minimalistic type of person, so I only use my MacBook for development.  
 
 MacBook:
-- 2020 MacBook Air
-- M1 CPU with 8 CPU cores and 7 GPU cores
-- 256 GB of storage
-- 16 GB of unified RAM
+- 2024 16" MacBook Pro
+- M4 PRo CPU with 14 CPU cores and 20 GPU cores
+- 1TB GB of storage
+- 48 GB of unified RAM
 
 For testing I use the Android emulator that comes with Android Studio and the IOS simulator that comes with Xcode
 
