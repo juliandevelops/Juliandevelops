@@ -68,4 +68,4 @@ I'm always happy to hear from you, so if you got any questions, you can reach me
 [LinkedIn](https://www.linkedin.com/in/julian-schumacher-b6005021a/) \
 [Instagram](https://www.instagram.com/juliandevelops/) \
 [X](https://x.com/juliandevelops) \
-[Patreon](https://patreon.com/juliandevelops) \
+[Patreon](https://patreon.com/juliandevelops)
